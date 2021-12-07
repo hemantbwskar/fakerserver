@@ -24,5 +24,6 @@
       "reminder": false,
       "id": 9
     }
-  ]
+  ],
+  "searchTerms":["Oranges", "Apples", "Banana", "Kiwi", "Mango"]
 }
